@@ -1,0 +1,105 @@
+{
+  "item": {
+    "id": "com.k1al.turtlesoup",
+    "restype": "quick_app",
+    "name": "环间海龟汤·普通·困难·恐怖",
+    "description": "普通篇·困难篇·恐怖篇\n总题库达到520+\n\n专为环间设计的海龟汤\n内附一提示 一答案\n\n玩家问问题 裁判用是/不是回答\n直到复原整个故事全貌\n\n一次购买 永久使用 包更新",
+    "preview": [
+      "media/12106.jpg",
+      "media/12107.jpg"
+    ],
+    "icon": "media/12204.jpg",
+    "cover": "media/12199.jpg",
+    "author": [
+      {
+        "name": "Keal",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "购买链接",
+      "url": "https://aoafk.melog.top/shop/Keal",
+      "icon": "link-simple-horizontal"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-红米手表5.rpk",
+      "versionCode": 7
+    },
+    "xmrw6": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-红米手表6.rpk",
+      "versionCode": 7
+    },
+    "xmrw5xring": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-红米手表5.rpk",
+      "versionCode": 7
+    },
+    "xmb10": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-手环10.rpk",
+      "versionCode": 7
+    },
+    "xmb10nfc": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-手环10.rpk",
+      "versionCode": 7
+    },
+    "xmb11": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-手环11.rpk",
+      "versionCode": 7
+    },
+    "xmb11nfc": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-手环11.rpk",
+      "versionCode": 7
+    },
+    "xmb9": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-手环9.rpk",
+      "versionCode": 7
+    },
+    "xmb9p": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-手环9Pro.rpk",
+      "versionCode": 7
+    },
+    "xmb10p": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-手环10Pro.rpk",
+      "versionCode": 7
+    },
+    "xmws4xring": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-小米手表S4.rpk",
+      "versionCode": 7
+    },
+    "xmws441": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-小米手表S4.rpk",
+      "versionCode": 7
+    },
+    "xmws4": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-小米手表S4.rpk",
+      "versionCode": 7
+    },
+    "xmws541": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-小米手表S4.rpk",
+      "versionCode": 7
+    },
+    "xmws5": {
+      "version": "1.0.6",
+      "file_name": "downloads/海龟汤-小米手表S4.rpk",
+      "versionCode": 7
+    }
+  },
+  "ext": {}
+}
